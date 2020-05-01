@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Cairo Tour</string>
+    <string name="cafe_title_one">Koshari Abu Tarek</string>
+    <string name="cafe_title_two">Seqouia, Zamalek</string>
+    <string name="cafe_title_three">Naguib Mahfouz Cafe</string>
+    <string name="cafe_title_four">Zahret Al-Boustan Cafe</string>
+    <string name="cafe_title_five">Sobhi Kaber</string>
+    <string name="cafe_title_six">Al-Fishawy Cafe</string>
+    <string name="cafe_title_seven">AboulSid</string>
+    <string name="cafe_title_eight">Fos-het Somayya</string>
+    <string name="cafe_title_nine">Al-Horreya Cafe</string>
+    <string name="cafe_title_ten">Al-Qahwa Khan</string>
+
+
+    <string name="cafe_subtitle_one">(Local food) 7 AM to 11 PM</string>
+    <string name="cafe_subtitle_two">(Diner) 10 AM to 1:30 AM</string>
+    <string name="cafe_subtitle_three">(Cafe) 24 Hours</string>
+    <string name="cafe_subtitle_four">(Cafe) 8 Am to 2 AM</string>
+    <string name="cafe_subtitle_five">(Grilled Meat) 2 PM to 5 AM</string>
+    <string name="cafe_subtitle_six">(Cafe) 12:30 PM to 12 AM</string>
+    <string name="cafe_subtitle_seven">(Diner) 9 AM to 11 PM</string>
+    <string name="cafe_subtitle_eight">(Diner) 5 PM to 7 PM</string>
+    <string name="cafe_subtitle_nine">(Cafe) 10 AM to 2 AM</string>
+    <string name="cafe_subtitle_ten">(Cafe) 7 AM to 12 AM</string>
+
+
+    <string name="historical_title_one">Pyramids of Giza</string>
+    <string name="historical_title_two">Egyptian Museum</string>
+    <string name="historical_title_three">Khan Al-Khalili</string>
+    <string name="historical_title_four">Salah ElDin Al-Ayoubi Citadel</string>
+    <string name="historical_title_five">The Hanging Church</string>
+    <string name="historical_title_six">Religons Complex</string>
+    <string name="historical_title_seven">Cairo Tower</string>
+    <string name="historical_title_eight">Cairo Opera House</string>
+    <string name="historical_title_nine">Bab Zuweila</string>
+    <string name="historical_title_ten">Mokattam Mountain</string>
+
+
+    <string name="historical_subtitle_one">8 AM to 5 PM</string>
+    <string name="historical_subtitle_two">9 AM to 5 PM</string>
+    <string name="historical_subtitle_three">7 AM to 1 AM</string>
+    <string name="historical_subtitle_four">8 Am to 4 PM</string>
+    <string name="historical_subtitle_five">9 AM to 4 PM - 5 PM to 10 AM</string>
+    <string name="historical_subtitle_six">9 AM to 4 PM</string>
+    <string name="historical_subtitle_seven">9 AM to 12 AM</string>
+    <string name="historical_subtitle_eight">Concerts</string>
+    <string name="historical_subtitle_nine">24 Hours</string>
+    <string name="historical_subtitle_ten">24 Hours</string>
+
+
+    <string name="phrases_title_one">Thank you</string>
+    <string name="phrases_title_two">My name is...</string>
+    <string name="phrases_title_three">How much?</string>
+    <string name="phrases_title_four">Yes</string>
+    <string name="phrases_title_five">No</string>
+    <string name="phrases_title_six">Lets Go</string>
+    <string name="phrases_title_seven">I want to go to...</string>
+    <string name="phrases_title_eight">How are you?</string>
+    <string name="phrases_title_nine">Hello</string>
+    <string name="phrases_title_ten">Bye</string>
+
+
+    <string name="phrases_subtitle_one">Shokran</string>
+    <string name="phrases_subtitle_two">Ana Esmy...</string>
+    <string name="phrases_subtitle_three">Be Kam?</string>
+    <string name="phrases_subtitle_four">Aywa</string>
+    <string name="phrases_subtitle_five">La\'a</string>
+    <string name="phrases_subtitle_six">Yalla</string>
+    <string name="phrases_subtitle_seven">Ayez Arouh...</string>
+    <string name="phrases_subtitle_eight">Amel Eh?</string>
+    <string name="phrases_subtitle_nine">Al-Salam Alaykum</string>
+    <string name="phrases_subtitle_ten">Salam</string>
+
+
+    <string name="tip_one">Don\'t ride Taxis, use Uber</string>
+    <string name="tip_two">Don\'t rida a camel in the Pyramids</string>
+    <string name="tip_three">Haggle when you do shopping</string>
+    <string name="tip_four">Keep political opinions to a minimum</string>
+    <string name="tip_five">Save the boozing for the bar</string>
+    <string name="tip_six">Don\'t engage in Public Display of Affection</string>
+    <string name="tip_seven">Have a tour guide with you</string>
+    <string name="tip_eight">Don\'t cross the streets by yourself</string>
+    <string name="tip_nine">Don\'t drink tap water</string>
+    <string name="tip_ten">Ask before you take a picture</string>
+
+
+    <string name="location_cafe_one">https://goo.gl/maps/rFh9nkwtTCVRdAek7</string>
+    <string name="location_cafe_two">https://goo.gl/maps/LS2oEv5mWevRMLHJ6</string>
+    <string name="location_cafe_three">https://goo.gl/maps/YhrtZoZ8PkbEWowC6</string>
+    <string name="location_cafe_four">https://goo.gl/maps/eHjEkdbB2948hd6J9</string>
+    <string name="location_cafe_five">https://goo.gl/maps/zb5uvwgUFUhaw9Pe6</string>
+    <string name="location_cafe_six">https://goo.gl/maps/9Mon9bVp8NFaiQ196</string>
+    <string name="location_cafe_seven">https://goo.gl/maps/avXJLSd8gZij3pyGA</string>
+    <string name="location_cafe_eight">https://goo.gl/maps/qpBjDuBGgGDsPDvN7</string>
+    <string name="location_cafe_nine">https://goo.gl/maps/LBPs11h2nJtJVHwSA</string>
+    <string name="location_cafe_ten">https://goo.gl/maps/5rUN9zrr5Hp6Gg6T8</string>
+
+
+    <string name="location_historical_one">https://goo.gl/maps/DDGQUx1mAS3HWGrm8</string>
+    <string name="location_historical_two">https://goo.gl/maps/rSjSrhLqaBqjeEdc9</string>
+    <string name="location_historical_three">https://goo.gl/maps/x3233ka8zDzdPtDe6</string>
+    <string name="location_historical_four">https://goo.gl/maps/tz6mVFuhgysoHU6CA</string>
+    <string name="location_historical_five">https://goo.gl/maps/n5jANz3rm9yPgGis9</string>
+    <string name="location_historical_six">https://goo.gl/maps/eHmc44jQSBBLt6Fr5</string>
+    <string name="location_historical_seven">https://g.page/CairoTower?share</string>
+    <string name="location_historical_eight">https://goo.gl/maps/ZDteUoopsy1iU72U9</string>
+    <string name="location_historical_nine">https://goo.gl/maps/HXs8N8wBhVcjiSkd8</string>
+    <string name="location_historical_ten">https://goo.gl/maps/H6tvaYMUiaZTmA7o9</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_cafe">Cafe and Diners</string>
+    <string name="category_historical">Historical Sights</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_tips">Tips</string>
+
+
+</resources>
